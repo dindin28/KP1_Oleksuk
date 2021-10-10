@@ -42,6 +42,6 @@ private:
   int workshop_serial_number_;
   Lumber *pointer_;
   size_t size_;
-}; //Class (ToysGroup)
+}; //Class (Workshop)
 
 #endif //Header Guard
